@@ -1,0 +1,35 @@
+# FastAPI Backend - Agentic RAG System with LangChain MCP
+fastapi>=0.115.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+
+# LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+google-generativeai>=0.8.0
+
+# Vector Database
+faiss-cpu>=1.7.0
+
+# Document Processing
+pypdf2>=3.0.1
+python-docx>=1.1.0
+python-pptx>=0.6.23
+openpyxl>=3.1.2
+pandas>=2.2.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Utilities
+pydantic>=2.7.4
+pydantic-settings>=2.1.0
+aiofiles>=23.2.1
+requests>=2.31.0
+
+# OCR and Media Processing
+opencv-python>=4.9.0
+pytesseract>=0.3.10
+speechrecognition>=3.10.0
+pydub>=0.25.0
+moviepy>=2.0.0

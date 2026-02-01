@@ -1,0 +1,227 @@
+MISSION TIME: 109 HOURS, 19 MINUTES GET (Ground Elapsed Time)
+PARTICIPANTS:
+NEIL ARMSTRONG (Commander)
+BUZZ ALDRIN (Lunar Module Pilot)
+BRUCE MCCANDLESS (Mission Control/CapCom in Houston)
+
+109:19:16 ARMSTRONG: I'm at the foot of the ladder. The LM footpads are only depressed in the surface about 1 or 2 inches, although the surface appears to be very, very fine-grained, as you get close to it. It's almost like a powder. Ground mass is very fine.
+
+109:19:46 ARMSTRONG: I'm going to step off the LEM now.
+
+[Long pause as Armstrong places his boot on the surface]
+
+109:20:58 ARMSTRONG: That's one small step for [a] man; one giant leap for mankind.
+
+109:21:00 MCCANDLESS: Roger, Neil.
+
+109:21:02 ARMSTRONG: Yes, the surface is fine and powdery. I can kick it up loosely with my toe. It does adhere in fine layers, like powdered charcoal, to the sole and sides of my boots. I only go in a small fraction of an inch, maybe an eighth of an inch, but I can see the footprints of my boots and the treads in the fine, sandy particles.
+
+109:21:39 ARMSTRONG: There seems to be no difficulty in moving around - as we suspected. It's even perhaps easier than the simulations at one-sixth G that we performed in the various simulations on the ground. It's absolutely no trouble to walk around.
+
+109:22:08 ARMSTRONG: The descent engine did not leave a crater of any size. It has about 1 foot clearance on the ground. We're essentially on a very level place here. I can see some evidence of rays emanating from the descent engine, but a very insignificant amount.
+
+109:22:48 ARMSTRONG: Okay, Buzz, we're ready to bring down the camera.
+
+109:22:53 ALDRIN: I'm all ready.
+
+109:22:59 ARMSTRONG: Okay, I'm going to step back and take some of these photos.
+
+109:23:11 MCCANDLESS: Roger, Neil.
+
+[Armstrong takes the first panoramic photographs of the landing site]
+
+109:23:25 ARMSTRONG: I'll step out and take some of my first pictures here.
+
+109:24:12 ARMSTRONG: It has a stark beauty all its own. It's like much of the high desert of the United States. It's different, but it's very pretty out here.
+
+109:24:23 ALDRIN: Neil, are you ready for the LEC [Lunar Equipment Conveyor]?
+
+109:24:26 ARMSTRONG: Okay. Stand by.
+
+109:24:48 ARMSTRONG: You'll have to pay out all the LEC. It looks like it's coming out nice and evenly.
+
+109:24:55 ALDRIN: Okay. It's all the way out.
+
+109:25:08 ARMSTRONG: Okay. Now we're ready to hook up the LEC here.
+
+109:25:30 MCCANDLESS: Neil, this is Houston. We're recording your comments on the contingency sample. Over.
+
+109:25:38 ARMSTRONG: Roger. I'll get to that just as soon as I finish these picture series.
+
+109:25:44 MCCANDLESS: Roger.
+
+109:26:16 ARMSTRONG: [Talking to himself while photographing] That one was right... that one was wrong.
+
+109:26:54 MCCANDLESS: Neil, this is Houston. Based on your camera 16-mm view, it appears you might be tilting the camera up a little bit too far. We are not seeing the horizon.
+
+109:27:07 ARMSTRONG: Okay. I will take care of that.
+
+109:27:14 ALDRIN: I think you're pulling on the lanyard a little tight, Neil.
+
+109:27:17 ARMSTRONG: Okay.
+
+[Armstrong prepares to collect the "Contingency Sample"—a quick scoop of soil to ensure they return with something if they have to abort the EVA early.]
+
+109:27:52 ARMSTRONG: This is very interesting. It's a very soft surface, but here and there where I plug with the contingency sample collector, I run into a very hard surface. But it appears to be a very cohesive material of the same sort. I'll try to get a rock in here. Just a couple.
+
+109:28:17 ARMSTRONG: It's very soft surface, but here and there where I plug with the contingency sample collector, I run into a very hard surface. But it appears to be a very cohesive material of the same sort. I'll try to get a rock in here. Just a couple.
+
+109:28:50 MCCANDLESS: Roger, Neil.
+
+109:29:18 ARMSTRONG: The sample is in the pocket.
+
+109:29:20 MCCANDLESS: Roger, Neil.
+
+109:29:21 ALDRIN: Okay, Neil. The camera is positioned.
+
+109:29:23 ARMSTRONG: Okay.
+
+109:30:53 MCCANDLESS: Neil, this is Houston. Can you give us a status on your consummables? Over.
+
+109:31:02 ARMSTRONG: Okay. I'm reading 3.78 [psi], and 80 [percent oxygen]. No flags. Min/max is okay.
+
+109:31:16 MCCANDLESS: Roger, Neil. And Buzz, how are you coming along?
+
+109:31:22 ALDRIN: I'm doing just fine. Everything's looking good.
+
+109:32:44 ALDRIN: Okay. Are you ready for me to come out?
+
+109:32:47 ARMSTRONG: Yes. Just stand by a second. I'll move the LEC... Okay, come on out.
+
+109:33:30 ALDRIN: Okay. I've got the sublimator [cooling unit] up.
+
+109:33:32 ARMSTRONG: I have it.
+
+109:33:41 ALDRIN: The hatch is coming open.
+
+109:34:02 ALDRIN: Okay. The hatch is fully open.
+
+109:34:04 ARMSTRONG: Roger.
+
+109:34:08 ALDRIN: My antenna is out.
+
+109:34:25 ALDRIN: Okay. Now I want to back up and partially close the hatch. Making sure not to lock it on my way out.
+
+109:34:32 ARMSTRONG: That's a good thought. [Laughs]
+
+109:34:36 ALDRIN: That's our home for the next couple of hours; we want to take good care of it.
+
+109:35:10 ALDRIN: I'll leave it open about that far. Okay?
+
+109:35:12 ARMSTRONG: Okay.
+
+109:38:30 ALDRIN: Okay. I'm on the porch.
+
+109:38:33 ARMSTRONG: Okay. Stand by.
+
+[Aldrin begins descending the ladder.]
+
+109:39:15 ALDRIN: Okay. Now I think I've got the hang of it.
+
+109:40:00 ALDRIN: It takes a little bit of a little foot movement to get your feet back out of the ladder rung.
+
+109:41:28 ALDRIN: Okay. I'm going to leave that one foot up there and both hands down to about the fourth rung up.
+
+109:41:52 ALDRIN: Okay. Now I think I'll do it.
+
+109:41:56 ARMSTRONG: The backup RCU looks good, Buzz.
+
+109:42:05 ALDRIN: Okay. I'm at the bottom of the ladder, and I'm going to hold on with both hands.
+
+109:42:40 ALDRIN: Looks like the secondary strut had a little thermal effect on it of some sort.
+
+109:42:42 ARMSTRONG: Yes, I noticed that.
+
+109:42:50 ALDRIN: Beautiful view!
+
+109:42:52 ARMSTRONG: Isn't that something! Magnificent sight out here.
+
+109:42:57 ALDRIN: Magnificent desolation.
+
+109:43:16 ALDRIN: Okay. Now, I want to check the stability of moving around.
+
+109:43:24 ALDRIN: The mass of the backpack has some tendency to make you lean back, but I've found that if I just lean forward, it's very comfortable.
+
+109:43:47 ALDRIN: You've got to be careful that you are leaning in the direction you want to go, otherwise the windage is such that you just want to go to the side.
+
+109:44:00 ALDRIN: Reorienting is quite easy. You just have to be careful of your center of mass.
+
+109:45:30 MCCANDLESS: Neil and Buzz, this is Houston. The rate at which you're consuming oxygen is a little lower than we anticipated, so you have plenty of consumables.
+
+109:45:45 ALDRIN: Roger.
+
+109:46:02 ARMSTRONG: I've noticed that in the low gravity, the suit is much more comfortable. You don't feel the pressure points that you do in one G.
+
+109:46:15 ALDRIN: The other thing I've noticed is that there is no tendency to slip. The traction is very good.
+
+109:48:10 ARMSTRONG: Okay, I'm going to change the lens on the camera now.
+
+109:49:00 ALDRIN: I'm going to get to the plaque.
+
+[The astronauts move to the leg of the Lunar Module to read the commemorative plaque attached to the ladder.]
+
+109:52:19 ARMSTRONG: For those who haven't read the plaque, we'll read the plaque that's on the front landing gear of this LM. First, there's two hemispheres, one showing each of the two hemispheres of the Earth. Underneath it says: "Here men from the planet Earth first set foot upon the Moon, July 1969 A.D. We came in peace for all mankind." It has the crew members' signatures and the signature of the President of the United States.
+
+109:52:58 MCCANDLESS: Roger, Neil. Thank you.
+
+109:53:15 ALDRIN: Okay. I've got the camera ready.
+
+109:53:18 ARMSTRONG: Okay. Let's get the camera mounted.
+
+[They begin the process of setting up the television camera on a tripod further away from the lander to get a wider view of the action.]
+
+109:54:30 ALDRIN: Neil, if you'll take the camera, I'll get to work on the solar wind [experiment].
+
+109:54:34 ARMSTRONG: Okay.
+
+109:55:18 ALDRIN: The legs [of the tripod] are a little hard to deploy.
+
+109:55:25 ARMSTRONG: I'll help you there.
+
+109:57:00 MCCANDLESS: Neil, this is Houston. We're getting a beautiful picture. We can see the LM, and we can see the Stars and Stripes on the leg.
+
+109:57:12 ARMSTRONG: Okay.
+
+109:57:20 MCCANDLESS: The picture is beautiful, Neil.
+
+109:57:25 ARMSTRONG: Okay. I'm going to pan it around here.
+
+109:57:50 MCCANDLESS: Okay, that's a good panorama. We can see the boulder field out to the left.
+
+110:02:22 ARMSTRONG: Okay, Houston. The camera is positioned.
+
+110:02:26 MCCANDLESS: Roger. We've got a beautiful picture.
+
+110:03:20 ALDRIN: Okay. I'm going to deploy the Solar Wind Composition experiment now.
+
+110:03:30 MCCANDLESS: Roger, Buzz.
+
+[Aldrin sets up a sheet of foil to catch particles from the sun, known as the Solar Wind Composition experiment.]
+
+110:04:15 ALDRIN: The staff goes in the ground quite well. I'm down about 4 or 5 inches.
+
+110:04:25 ARMSTRONG: It looks like it's holding up well.
+
+110:06:10 ALDRIN: Okay. Now for the flag.
+
+110:06:15 ARMSTRONG: Okay.
+
+[They begin the difficult process of setting up the American flag. The subsurface soil was harder than expected, making it difficult to drive the pole in.]
+
+110:08:30 ARMSTRONG: The telescoping top rod is not extending very well.
+
+110:08:45 ALDRIN: Let me give it a try.
+
+110:09:20 MCCANDLESS: Neil and Buzz, the President of the United States is in his office now and would like to say a few words to you. Over.
+
+110:09:30 ARMSTRONG: That would be an honor.
+
+110:09:35 MCCANDLESS: Go ahead, Mr. President. This is Houston. Out.
+
+110:09:50 PRESIDENT NIXON: Hello, Neil and Buzz. I'm talking to you by telephone from the Oval Room at the White House. And this certainly has to be the most historic telephone call ever made. I just can't tell you how proud we all are of what you've done. For every American, this has to be the proudest day of our lives. And for people all over the world, I am sure they too join with Americans in recognizing what an immense feat this is. Because of what you have done, the heavens have become a part of man's world. And as you talk to us from the Sea of Tranquility, it inspires us to redouble our efforts to bring peace and tranquility to Earth. For one priceless moment in the whole history of man, all the people on this Earth are truly one: one in their pride in what you have done, and one in our prayers that you will return safely to Earth.
+
+110:11:15 ARMSTRONG: Thank you, Mr. President. It's a great honor and privilege for us to be here, representing not only all the men of peaceable nations, but men of peace of all nations, and with interest and a curiosity, and men with a vision for the future. It's an honor for us to be able to participate here today.
+
+110:11:43 PRESIDENT NIXON: And thank you very much and I look forward to all of us being able to see you on the Hornet on Thursday.
+
+110:11:50 ALDRIN: I look forward to that very much, sir.

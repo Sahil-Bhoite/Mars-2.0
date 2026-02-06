@@ -20,7 +20,12 @@ class Settings(BaseSettings):
     chunk_size: int = 1000
     chunk_overlap: int = 200
     top_k_results: int = 5
-    cors_origins: list[str] = ["http://localhost:5173", "http://localhost:3000"]
+    cors_origins: list[str] = [
+        "http://localhost:5173",
+        "http://localhost:3000",
+        "https://mars-2-0.onrender.com",
+        "https://mars.onrender.com",
+    ]
     
     class Config:
         env_file = "../.env"

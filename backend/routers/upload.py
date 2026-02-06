@@ -47,8 +47,9 @@ async def upload_files(files: List[UploadFile] = File(...), session_id: str = No
             sessions[session_id]["total_chunks"] += num_chunks
             
         except Exception as e:
-            logger.error(f"Error processing {file.filename}: {e}")
-            errors.append({"filename": file.filename, "error": str(e)})
+            import traceback
+            logger.error(f"Error processing {file.filename}: {e}\n{traceback.format_exc()}")
+            errors.append({"filename": file.filename, "error": str(e) or repr(e)})
     
     return JSONResponse({
         "session_id": session_id,

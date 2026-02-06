@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 
 class VectorStore:
-    EMBEDDING_DIM = 768
+    EMBEDDING_DIM = 3072  # gemini-embedding-001 outputs 3072 dimensions
     
     def __init__(self):
         self.index = None
@@ -29,10 +29,10 @@ class VectorStore:
         self._initialized = True
     
     def _get_embeddings(self, texts: list[str]) -> list[list[float]]:
-        return [genai.embed_content(model="models/text-embedding-004", content=t, task_type="retrieval_document")['embedding'] for t in texts]
+        return [genai.embed_content(model="models/gemini-embedding-001", content=t, task_type="retrieval_document")['embedding'] for t in texts]
     
     def _get_query_embedding(self, query: str) -> list[float]:
-        return genai.embed_content(model="models/text-embedding-004", content=query, task_type="retrieval_query")['embedding']
+        return genai.embed_content(model="models/gemini-embedding-001", content=query, task_type="retrieval_query")['embedding']
     
     def add_documents(self, chunks: list[dict], session_id: str) -> int:
         self.initialize()

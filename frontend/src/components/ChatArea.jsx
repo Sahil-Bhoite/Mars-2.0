@@ -3,7 +3,7 @@ import { Send, Loader2, MessageSquare, Globe, Server } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
 import axios from 'axios'
 
-const API_URL = 'http://localhost:8000/api'
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
 
 function ChatArea({ sessionId, messages, onNewMessage, uploadedFiles }) {
     const [input, setInput] = useState('')

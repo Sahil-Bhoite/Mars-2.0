@@ -34,6 +34,10 @@ GOOGLE_API_KEY=your_google_api_key
 
 Open http://localhost:5173
 
+## 🚀 Deployment
+
+See **[DEPLOYMENT.md](DEPLOYMENT.md)** for Docker and Cloud deployment instructions.
+
 ## Tech Stack
 
 | Component | Technology |

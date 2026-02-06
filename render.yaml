@@ -1,0 +1,29 @@
+services:
+  # Backend Service (Docker)
+  - type: web
+    name: mars-backend
+    env: docker
+    region: oregon
+    plan: free
+    dockerContext: ./backend
+    dockerfilePath: ./backend/Dockerfile
+    envVars:
+      - key: GOOGLE_API_KEY
+        sync: false
+    autoDeploy: false
+
+  # Frontend Service (Static Site)
+  - type: static
+    name: mars-frontend
+    env: static
+    region: oregon
+    plan: free
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: ./frontend/dist
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: mars-backend
+          property: url
+    autoDeploy: false
